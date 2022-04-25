@@ -1,2 +1,2 @@
 # save_murica
-most murica rpg ever
+most murica shooter ever
